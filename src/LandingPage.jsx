@@ -193,7 +193,7 @@ const Portfolio = () => {
           
           <div className="flex flex-wrap justify-center gap-4 mb-12">
             <a
-              href="https://github.com/Maligeli"
+              href="https://github.com/Maligelimeenakumari"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
