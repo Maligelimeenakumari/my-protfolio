@@ -485,7 +485,7 @@ const Portfolio = () => {
 
           <div className="flex justify-center gap-6">
             <a
-              href="https://github.com/Maligeli"
+              href="https://github.com/Maligelimeenakumari"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-800 hover:bg-gray-700 p-4 rounded-full transition-all duration-300 hover:scale-110"
