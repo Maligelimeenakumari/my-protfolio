@@ -43,14 +43,36 @@ const Portfolio = () => {
       description: "Responsive website with admin panel for managing patient appointments, inquiries, and medical records.",
       tech: ["React.js", "Node.js", "MongoDB"],
       highlights: ["60% streamlined operations", "Appointment scheduling", "Patient record management"]
-    }
+    },
+    {
+  title: "CIM CFA LOS",
+  description: "Backend-driven Loan Origination System for managing loan applications, approvals, and workflow automation with secure admin controls.",
+  tech: ["JavaScript", "Node.js"],
+  highlights: [
+    "Loan application creation and processing",
+    "Workflow automation and role-based access",
+    "Improved operational efficiency"
+  ]
+}
+
   ];
 
   const experience = [
     {
+      title: "Associate Solution Engineer",
+      company: "M2p Solutions privated limited",
+      duration: "Jul 2025 - Present",
+      description: "Backend-focused developer building scalable fintech applications. Specialized in Loan Origination Systems (LOS), API development, schedulers, and workflow automation.",
+      achievements: [
+        "Developed and enhanced LOS backend modules for loan creation and application processing",
+        "Implemented API integrations and automation jobs to streamline loan workflows",
+        "Worked on secure, role-based backend logic for financial applications"
+      ]
+    },
+    {
       title: "Software Engineer",
       company: "Think AI Labs",
-      duration: "Dec 2023 - Present",
+      duration: "Dec 2023 - Jun 2025",
       description: "Building scalable applications and optimizing workflows. Specialized in real-time applications and automation.",
       achievements: [
         "Developed task and project management system with role-based access control",
@@ -59,7 +81,7 @@ const Portfolio = () => {
       ]
     },
     {
-      title: "Frontend Developer",
+      title: "Frontend Developer(Intern)",
       company: "Spanni Technologies Private Limited",
       duration: "Mar 2023 - May 2023",
       description: "Developed front-end features and enhancements for various projects in a collaborative environment.",
