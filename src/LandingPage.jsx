@@ -47,11 +47,11 @@ const Portfolio = () => {
     {
   title: "CIM CFA LOS",
   description: "Backend-driven Loan Origination System for managing loan applications, approvals, and workflow automation with secure admin controls.",
-  tech: ["JavaScript", "Node.js"],
+  tech: ["JavaScript", "Node.js","PostgreSQL","MongoDB"],
   highlights: [
-    "Loan application creation and processing",
-    "Workflow automation and role-based access",
-    "Improved operational efficiency"
+    "Built backend services for loan creation and application processing",
+    "Integrated third-party APIs and schedulers for automated workflows",
+    "Implemented secure, role-based backend controls for LOS operations"
   ]
 }
 
